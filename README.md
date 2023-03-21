@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @ravindu9802
+
 - 👀 I’m interested in ...
+
 - 🌱 I’m currently learning ...
+
 - 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me ...
+        📧 ravindurasanjana1998@gmail.com
 
 <!---
 ravindu9802/ravindu9802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
