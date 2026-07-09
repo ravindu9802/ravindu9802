@@ -20,7 +20,7 @@ I am a passionate developer and a lifelong learner.
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=azure,dotnet,fastapi,flask,nodejs,docker,angular,react,mongodb,mysql,cs,py,jquery,ts,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,dotnet,nodejs,docker,angular,mongodb,mysql,cs,ts,js,html,css)](https://skillicons.dev)
 
 <!--
 ## 🌱 Currently Exploring
